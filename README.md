@@ -1,2 +1,2 @@
-# c-plus-plus
-All c-pp basic to advance notes and dsa
+# c-plus-plus-dsa
+All c-pp dsa
